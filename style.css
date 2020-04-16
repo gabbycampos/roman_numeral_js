@@ -1,0 +1,11 @@
+body {
+    font-family: helvetica;
+    background-color: #1a1e2d;
+    color: #ffcc81;
+}
+#convert {
+    text-align: center;
+}
+.textResult {
+    text-align: center;
+}
